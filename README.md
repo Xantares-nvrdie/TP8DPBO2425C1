@@ -239,3 +239,9 @@ Menyimpan data penelitian dosen.
 | `funding` | VARCHAR(100) | Pendanaan penelitian |
 
 ---
+
+# 📸 DEMO
+https://github.com/user-attachments/assets/393152ab-2ff9-4590-83e1-8b4c6bd8b3bd
+
+
+
